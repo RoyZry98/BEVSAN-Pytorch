@@ -1,12 +1,12 @@
-## BEV-SAN: Accurate BEV 3D Object Detection via Slice Attention Networks
-The official release of BEV-SAN is now available.
-For more details, please refer to our [paper on Arxiv](https://arxiv.org/abs/2212.01231).
+## BEV-SAN: Accurate BEV 3D Object Detection via Slice Attention Networks [**[Paper]**](https://openaccess.thecvf.com/content/CVPR2023/papers/Chi_BEV-SAN_Accurate_BEV_3D_Object_Detection_via_Slice_Attention_Networks_CVPR_2023_paper.pdf)
+Xiaowei Chi, Jiaming Liu, Ming Lu, Rongyu Zhang, Zhaoqing Wang, Yandong Guo, Shanghang Zhang
 
 <img src="assets/BEVSAN.png" width="1000" >
 
 ## Updates!!
 * 【2023/10/24】 We publish the code base of our work. Updating soon.
 * 【2023/02/24】 Our work has been accepted by the CVPR2023.
+  
 ## Quick Start
 ### Installation
 **Step 0.** Install [pytorch](https://pytorch.org/)(v1.9.0).
