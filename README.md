@@ -1,5 +1,5 @@
 ## BEV-SAN: Accurate BEV 3D Object Detection via Slice Attention Networks
-![Python 3.9](https://img.shields.io/badge/Python-3.9-red)
+![Python 3.8](https://img.shields.io/badge/Python-3.8-blue)
 [![arXiv](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://openaccess.thecvf.com/content/CVPR2023/papers/Chi_BEV-SAN_Accurate_BEV_3D_Object_Detection_via_Slice_Attention_Networks_CVPR_2023_paper.pdf)
 
 <img src="assets/BEVSAN.png" width="1000" >
